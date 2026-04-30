@@ -1,3 +1,23 @@
+streamlit
+
+# LangChain ecosystem
 langchain
 langchain-core
 langchain-community
+langchain-text-splitters
+
+# HuggingFace integration
+langchain-huggingface
+huggingface-hub
+
+# Vector DB
+faiss-cpu
+
+# YouTube transcript
+youtube-transcript-api
+
+# LLM + tokenizers (often required indirectly)
+tiktoken
+
+# Pollinations (you used it explicitly)
+langchain-pollinations
