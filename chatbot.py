@@ -149,6 +149,6 @@ def format_docs(docs):
 p_llm = ChatPollinations(
     model = "nova-fast",
     temperature = 0,
-    api_key="sk_D2GhsbL16wAKOcsOL6ki4fdEFsZmRENr"
+    api_key="YOUR_POLLINATIONS_API"
 )
 
